@@ -73,7 +73,7 @@ GitHub enhances Git's version control capabilities by providing:
 4. Access control and permissions management
 5. Integration with development tools and CI/CD pipelines
 
-A team developing a mobile app uses Git branches to work on new features in parallel. They use GitHub pull requests to review code before merging into the main branch. GitHub Actions automates their testing and deployment process.
+A team developing a mobile app can use Git branches to work on new features in parallel. They use GitHub pull requests to review code before merging into the main branch. GitHub Actions automates their testing and deployment process.
 
 Branching and Merging in GitHub:
 # What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
@@ -150,7 +150,7 @@ Steps to review a pull request:
 5. Approve or request changes
 6. Merge the pull request if approved
 
-A software team is developing an e-commerce platform. A developer creates a branch to implement a new shopping cart feature. After completing the work, they create a pull request. Team members review the code, suggest optimizations, and discuss the implementation. Once approved, the changes are merged into the main branch, improving the platform's functionality.
+In a software team developing an e-commerce platform, a developer creates a branch to implement a new shopping cart feature. After completing the work, they create a pull request. Team members review the code, suggest optimizations, and discuss the implementation. Once approved, the changes are merged into the main branch, improving the platform's functionality.
 
 GitHub Actions:
 # Explain what GitHub Actions are and how they can be used to automate workflows. Provide an example of a simple CI/CD pipeline using GitHub Actions.
